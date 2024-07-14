@@ -1,0 +1,53 @@
+<html>
+
+<head>
+<img src="1.jpg" width=900 height=200>
+<p>
+<br><h2><marquee bgcolor="#BFB3B1" height="70" behavior="alternate"><b>Datos Certificaci&oacute;n /
+<br>Autorizaciones de Comercializaci&oacute;n</b></marquee></h2>
+<br>
+<title>ww6.sec.cl/qr/qr.do?.a=producto</title>
+</head>
+
+<body>
+<br><b>Folio SEC:</b>
+<br>1969071568946
+<br><hr align=center size=0.0001 width=100%>
+<b>Num. Certificado / Res. Exenta SEC:</b>
+<br>E-013-03-000000000000105677
+<br><hr align=center size=0.0001 width=100%>
+<br><b>C&oacute;digo de Motor:</b>
+<br>Sical Ingenieros S.A.
+<br><hr align=center size=0.0001 width=100%>
+<br><b>Fecha Certificado / Res. Exenta SEC:</b>
+<br>15/01/2024
+<br><hr align=center size=0.0001 width=100%>
+<br><b>Organismo Emisor:</b>
+<br>Sical Ingenieros S.A.
+
+<br><h2><marquee bgcolor="#BFB3B1" height="40" behavior="alternate"><b>Datos Producto</b></marquee></h2>
+<br><b>Producto:</b>
+<br>Refrigerador
+<br><hr align=center size=0.0001 width=100%>
+<br><b>Pa&iacute;s de Fabricaci&oacute;n:</b>
+<br>Indonesia
+<br><hr align=center size=0.0001 width=100%>
+<br><b>Marca:</b>
+<br>LG
+<br><hr align=center size=0.0001 width=100%>
+<br><b>Categor&iacute;a de Consumo:</b>
+<br> A +++
+<br><hr align=center size=0.0001 width=100%>
+<br><b>Fecha de Fabricaci&oacute;n:</b>
+<br>15 - Enero - 2024
+<br><hr align=center size=0.0001 width=100%>
+<br><b>Frecuencia El&eacute;ctrica:</b>
+<br>50Hz - 60Hz
+
+<br><hr align=center size=0.0001 width=100%>
+<br><b>P&aacute;gina Web:</b>
+<br><a target="_blank" href="https://www.electrolux.com">www.lg.com</a>
+<br>
+<br><center><h3><marquee bgcolor="#BFB3B1" height="30" behavior="alternate"><b>Superintedencia de Electricidad y Combustibles</center></h3></b></marquee></h2>
+</body>
+</html>
